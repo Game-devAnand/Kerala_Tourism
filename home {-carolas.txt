@@ -1,0 +1,27 @@
+home {-carolas
+-nav-card-grid
+
+district page - {
+ 14 -{6}
+}
+
+
+hotspots in turism{
+
+}
+
+log in{
+
+}
+
+sign [
+    f- name l name
+    email
+    male r female
+    city
+    conunty
+    password
+    confrom password
+    register
+]
+
